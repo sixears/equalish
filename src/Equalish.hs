@@ -1,5 +1,6 @@
 {-# LANGUAGE UnicodeSyntax #-}
 
+
 module Equalish
   ( Equalish( (≏) ) )
 where
